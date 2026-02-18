@@ -41,12 +41,13 @@ VERITAS is an open-source architecture for **industrial DataOps** that intellige
 
 ## Research Foundation
 
-Architecture validated against **1,598+ academic papers** across data engineering, agentic AI, polyglot persistence, uncertainty quantification, and industrial cybersecurity. Eight novel contributions confirmed — see [veritas-spec](https://github.com/Veritas-aidb/veritas-spec) for details.
+Architecture validated against **40+ academic papers** across data engineering, agentic AI, polyglot persistence, uncertainty quantification, and industrial cybersecurity. Eight novel contributions confirmed — see [veritas-spec](https://github.com/Veritas-aidb/veritas-spec) for details.
 
 ## Affiliations
 
-- **IntelliWind** — EU MSCA Project (Universidad de Granada)
-- **CD Foundation** — DataOps Initiative Contributor
+- [**IntelliWind**](https://www.intelliwind.eu/danyalkhansage) — EU MSCA Project (Universidad de Granada)
+- [**IPM Labs**](https://ipmlab.ugr.es/es/principal/) - Universidad de Granada
+- [**CD Foundation**](cd.foundation/dataops) — DataOps Initiative Contributor
 - **Linux Foundation** — Open-source governance and community
 
 ## Get Involved
@@ -55,4 +56,4 @@ We welcome contributions across database adapters, ontology extensions, evaluati
 
 - **Discussions**: [GitHub Discussions](https://github.com/orgs/Veritas-aidb/discussions)
 - **Issues**: Check repos for `good first issue` labels
-- **Contact**: [Sage Khan](https://www.linkedin.com/in/sagekhan) (MSCA Scholar, Universidad de Granada)
+- **Contact**: [Dan Sage Khan](https://www.linkedin.com/in/sagekhan) (MSCA Scholar, Universidad de Granada)
