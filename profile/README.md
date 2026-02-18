@@ -1,6 +1,6 @@
 # VERITAS-AIDB
 
-**Ontology-Aware, Agentic AI-Powered Polyglot DataOps Ecosystem**
+**Trust First, Ontology-Aware, Agentic AI-Powered, Fully Connected Polyglot DataOps Ecosystem**
 
 > A single source of truth for autonomous industrial systems and linked agentic AI.
 
